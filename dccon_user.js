@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         디시콘 커스텀
 // @namespace    https://github.com/
-// @version      1.1
+// @version      1.1.1
 // @author       결챠니
 // @updateURL    https://raw.githubusercontent.com/spjong-auto/ConConCon/main/dccon_user.js
 // @downloadURL  https://raw.githubusercontent.com/spjong-auto/ConConCon/main/dccon_user.js
